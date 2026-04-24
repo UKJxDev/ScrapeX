@@ -1,8 +1,8 @@
-## WebLens – Web Scraper
+## ScrapeX – Web Scraper
 
 ### Overview
 
-WebLens is a lightweight web scraping application that extracts structured and unstructured data from websites. It allows users to input a URL and retrieve key information such as page metadata, text content, links, images, and headers in a structured format. The application also provides options to export the scraped data in multiple formats.
+ScrapeX is a lightweight web scraping application that extracts structured and unstructured data from websites. It allows users to input a URL and retrieve key information such as page metadata, text content, links, images, and headers in a structured format. The application also provides options to export the scraped data in multiple formats.
 
 ---
 
